@@ -10,23 +10,6 @@ The vision is to bring multiple aspects of student life into one connected digit
 
 ---
 
-📑 Table of Contents
-
-- "Introduction" (#-introduction)
-- "The Inspiration" (#-the-inspiration)
-- "Research and Exploration" (#-research-and-exploration)
-- "Problem Identification" (#-problem-identification)
-- "Our Innovation" (#-our-innovation)
-- "Technology Stack" (#-technology-stack)
-- "System Architecture" (#-system-architecture)
-- "Development Journey" (#-development-journey)
-- "Challenges and Learning" (#-challenges-and-learning)
-- "Future Roadmap" (#-future-roadmap)
-- "Project Vision" (#-project-vision)
-- "About the Creator" (#-about-the-creator)
-
----
-
 🌐 Introduction
 
 Technology has transformed the way people communicate, work and learn. However, students still depend on multiple disconnected platforms to manage their academic responsibilities, learning activities and professional development.
